@@ -4,16 +4,20 @@ Descriptive data analysis project using python, pandas, matplotlib and seaborn
 This dataset contains detailed information about hotel booking records, including reservation details, guest characteristics, booking behavior, and stay outcomes. It is suitable for data analysis, business intelligence, and predictive modeling, especially for studying booking cancellations, customer behavior, and hotel performance.
 Each row represents one hotel booking.
 # Columns 
-## 1- hotel : Type of hotel (e.g., Resort Hotel, City Hotel).
-## 2- is canceled : Indicates whether the booking was canceled(1 = canceled, 0 = not canceled).
-## 3- lead time: Number of days between the booking date and the arrival date.
-## 4-	arrival date year: Year of arrival.
-## 5- Arrival date month : Month of arrival (text format).
-## 6- Arrival date week number : Week number of the year.
-## 7- Arrival date day of month : Day of the month of arrival.
-## 8- stays in weekend nights : Number of weekend nights booked.
-## 9- Stays in weeknights : Number of weekday nights booked.
-## 10- adults : Number of adults.
+1- hotel : Type of hotel (e.g., Resort Hotel, City Hotel).
+
+2- is canceled : Indicates whether the booking was canceled(1 = canceled, 0 = not canceled).
+
+3- lead time: Number of days between the booking date and the arrival date.
+
+4-	arrival date year: Year of arrival.
+
+5- Arrival date month : Month of arrival (text format).
+6- Arrival date week number : Week number of the year.
+7- Arrival date day of month : Day of the month of arrival.
+8- stays in weekend nights : Number of weekend nights booked.
+9- Stays in weeknights : Number of weekday nights booked.
+10- adults : Number of adults.
 11- children : Number of children.
 12- babies : Number of babies.
 13- meal : Type of meal plan booked (e.g., BB, HB, FB).
