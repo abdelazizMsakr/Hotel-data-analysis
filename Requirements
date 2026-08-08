@@ -1,16 +1,16 @@
-Business Questions
-Q1️⃣ What is the overall cancellation rate? 
-Q2️⃣ Which hotel type has a higher cancellation rate?
-Q3️⃣ What are the top 5 market segments by booking volume?
-Q4️⃣ Which market segment has the highest cancellation rate?
-Q5️⃣ Which distribution channel is most risky?
-Q6️⃣ Is deposit type a strong predictor of cancellation?
-Q7️⃣ How does lead time affect cancellation?
-Q8️⃣ Is ADR higher for canceled bookings?
-Q9️⃣ Which months have the highest cancellation rates?
-Q🔟 Does having children affect cancellation?
-Q1️⃣1️⃣ Do repeated guests cancel less?
-Q1️⃣2️⃣ Does being on a waiting list increase cancellation?
-Q1️⃣3️⃣ Are booking changes correlated with cancellation?
-Q1️⃣4️⃣ Do special requests reduce cancellation?
-Q1️⃣5️⃣ Does room mismatch increase cancellation?
+# Business Questions
+Q1 What is the overall cancellation rate? 
+Q2️ Which hotel type has a higher cancellation rate?
+Q3️ What are the top 5 market segments by booking volume?
+Q4️ Which market segment has the highest cancellation rate?
+Q5️ Which distribution channel is most risky?
+Q6️ Is deposit type a strong predictor of cancellation?
+Q7️ How does lead time affect cancellation?
+Q8️ Is ADR higher for canceled bookings?
+Q9️ Which months have the highest cancellation rates?
+Q10 Does having children affect cancellation?
+Q11 Do repeated guests cancel less?
+Q12 Does being on a waiting list increase cancellation?
+Q13 Are booking changes correlated with cancellation?
+Q14 Do special requests reduce cancellation?
+Q15 Does room mismatch increase cancellation?
